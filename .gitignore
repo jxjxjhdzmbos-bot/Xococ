@@ -75,3 +75,6 @@ lint-baseline.xml
 
 # Android Profiling
 *.hprof
+
+# javac args
+javac.*.args
